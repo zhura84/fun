@@ -1,0 +1,12 @@
+package messages;
+
+option java_package = "com.test.task1";
+option java_outer_classname = "Messages";
+
+message HelloResponse {
+    required string response = 1;
+}
+
+message HelloRequest {
+    required string name = 1;
+}
