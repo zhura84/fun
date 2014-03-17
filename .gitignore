@@ -1,0 +1,12 @@
+target
+tmp
+.history
+/.idea
+/*.iml
+/out
+/.idea_modules
+/.classpath
+/.project
+/RUNNING_PID
+/.settings
+nbactions.xml
